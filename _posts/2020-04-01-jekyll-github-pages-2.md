@@ -35,7 +35,7 @@ tags: jekyll github 博客
 创建Jekyll项目，因为当前文件夹是个Git仓库，并不是空文件夹，所以要加上`--force`参数
 ```shell
 > jekyll new . --force
-```
+```的大多数dd
 
 本地运行
 ```shell
@@ -49,5 +49,11 @@ tags: jekyll github 博客
 ### 部署到GitHub Pages
 
 部署过程很简单，将本地仓库`push`到GitHub即可。
+
+部署后可以为你的博客自定义域名，在`GitHub > 你的仓库 > Settings`下设置
+
+另外需要给你的域名增加一条`CNAME`类型的解析记录，该记录值对应的GitHub Pags默认生成的域名`YOURNAME.github.io`
+
+![GitHub Pages设置](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-3/GitHub%20Pages%E8%AE%BE%E7%BD%AE.jpg)
 
 _GitHub Pages的主页：[https://pages.github.com/](https://pages.github.com/)，如有兴趣可以看看。_

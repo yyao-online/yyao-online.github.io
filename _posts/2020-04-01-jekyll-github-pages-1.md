@@ -1,6 +1,7 @@
 ---
 layout: article
 title: 使用jekyll在github上搭建个人博客（一）
+key: 2020-04-01-jekyll-github-pages-1
 tags: jekyll github 博客
 ---
 

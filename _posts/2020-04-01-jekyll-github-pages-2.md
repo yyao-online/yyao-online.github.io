@@ -54,6 +54,6 @@ tags: jekyll github 博客
 
 另外需要给你的域名增加一条`CNAME`类型的解析记录，该记录值对应的GitHub Pags默认生成的域名`YOURNAME.github.io`
 
-![GitHub Pages设置](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-3/GitHub%20Pages%E8%AE%BE%E7%BD%AE.jpg)
+![GitHub Pages设置](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-2/GitHub%20Pages%E8%AE%BE%E7%BD%AE.jpg)
 
 _GitHub Pages的主页：[https://pages.github.com/](https://pages.github.com/)，如有兴趣可以看看。_

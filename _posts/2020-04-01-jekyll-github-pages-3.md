@@ -17,12 +17,26 @@ tags: jekyll github 博客
 
 主题的作者提供了多种方式安装主题，笔者采用的是最简单直接的方式。
 
-#### 1. 下载主题完整包
+#### 1. 下载
 
 [<i class="fas fa-download"></i>下载TeXt主题](https://github.com/kitian616/jekyll-TeXt-theme/archive/master.zip){:.button.button--success.button--rounded.button--lg}
 
-#### 2. 清空你的仓库，并将主题包解压至仓库根目录
+#### 2. 安装
+
+- 清空你的仓库，并将主题包解压至仓库根目录
 
 <span><font color="red">注意下载的主题压缩包内部还有一层目录，需要将此目录中的内容释放至仓库根目录下</font></span>
+
+- 安装依赖（若不需要本地调试，可以跳过）
+```shell
+> bundle install
+```
+
+- 本地调试
+```shell
+> jekyll serve
+```
+
+![Jekyll-TeXt-Theme本地服务](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-3/Jekyll-TeXt-Theme%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1.jpg)
 
 #### 3. 

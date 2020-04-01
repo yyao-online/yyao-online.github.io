@@ -3,6 +3,7 @@ layout: article
 title: 使用jekyll在github上搭建个人博客（三）
 key: 2020-04-01-jekyll-github-pages-3
 tags: jekyll github 博客
+pageview: true
 ---
 
 > 本文中我将介绍如何在[github](https://github.com/)上搭建个人博客，其中会涉及到一些命令行操作，可能对于编程小白会有一些难懂。

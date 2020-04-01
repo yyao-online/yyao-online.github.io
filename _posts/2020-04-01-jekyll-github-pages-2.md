@@ -43,6 +43,8 @@ tags: jekyll github 博客
 
 使用浏览器访问[http://127.0.0.1:4000](http://127.0.0.1:4000)即可查看效果。
 
+![Jekyll本地服务](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-2/Jekyll%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1.jpg)
+
 ### 部署到GitHub Pages
 
 部署过程很简单，将本地仓库`push`到GitHub即可。

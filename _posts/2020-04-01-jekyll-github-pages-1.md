@@ -5,13 +5,13 @@ key: 2020-04-01-jekyll-github-pages-1
 tags: jekyll github 博客
 ---
 
-> 本文中我将介绍如何在[github](https://github.com/)上搭建个人博客，其中会涉及到一些命令行操作，可能对于编程小白会有一些难懂。
+> 本文中我将介绍如何在[GitHub](https://github.com/)上搭建个人博客，其中会涉及到一些命令行操作，可能对于编程小白会有一些难懂。
 
 ### 工具简介
 
-1. **Github** [https://github.com/](https://github.com/)
+1. **GitHub** [https://github.com/](https://github.com/)
 
-    全球最大的社交编程及代码托管网站，并且支持将`Jekyll`项目免费部署在`Github Pages`上，支持自定义域名。
+    全球最大的社交编程及代码托管网站，并且支持将`Jekyll`项目免费部署在`GitHub Pages`上，支持自定义域名。
 
 2. **Jekyll** [http://jekyllcn.com/](http://jekyllcn.com/)
 

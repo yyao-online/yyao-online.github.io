@@ -11,9 +11,7 @@ tags: jekyll github 博客
 
 本文使用TeXt主题来美化博客
 
-- GitHub地址：[https://github.com/kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
-- 文档-英文：[https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-- 文档-中文：[https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)
+**GitHub地址：**[https://github.com/kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
 主题的作者提供了多种方式安装主题，笔者采用的是最简单直接的方式。
 
@@ -39,4 +37,9 @@ tags: jekyll github 博客
 
 ![Jekyll-TeXt-Theme本地服务](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-3/Jekyll-TeXt-Theme%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1.jpg)
 
-#### 3. 
+#### 3. 站点设置
+
+**参考文档**
+
+- 英文：[https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
+- 中文：[https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)

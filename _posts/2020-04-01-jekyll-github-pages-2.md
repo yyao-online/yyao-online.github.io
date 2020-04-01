@@ -14,7 +14,8 @@ tags: jekyll github 博客
 ![GitHub创建仓库](https://blog-yyao-online.oss-cn-hangzhou.aliyuncs.com/2020-04-01-jekyll-github-pages-2/GitHub%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93.jpg)
 
 **注意：**
-- 仓库名称是`YOURNAME.github.io`，`YOURNAME`是你的GitHub的用户名，笔者是`yyao-online`
+- 仓库名称是`YOURNAME.github.io`，`YOURNAME`是你的GitHub的用户名，笔者是`yyao-online`，这样命名的仓库，部署后访问地址是`http://yyao-online.github.io`
+- 仓库名称也可以是别的任意值，这样命名的仓库，部署后访问地址是`http://yyao-online.github.io/xxxxxxx`，`xxxxxxx`为仓库名，**这样可能会造成一些资源文件的丢失**。
 - 无论是公有库还是私有库都可以，就算是私有库，使用了GitHub Pages也是公开的，我们做博客不就是给人看的么，哈哈~~~
 
 经过以上步骤，仓库就创建好了。

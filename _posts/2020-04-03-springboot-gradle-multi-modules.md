@@ -167,8 +167,7 @@ test {
 }
 ```
 
-`app-server`和`app-manager`，作为SpringBoot应用，无需像`lib-data`和`lib-commons`一样修改`build.gradle`，添加`lib-data`和`lib-commons`中包含的所有Dependencies，
-并引入模块；
+`app-server`和`app-manager`，作为SpringBoot应用，无需像`lib-data`和`lib-commons`一样修改`build.gradle`，添加必要的Dependencies，并引入模块；
 
 ```gradle
 plugins {
@@ -188,8 +187,8 @@ repositories {
   mavenCentral()
 }
 dependencies {
-  implementation project(':lib.commons') // 引入lib.commons
-  implementation project(':lib.data') // 引入lib.data
+  implementation project(':lib-commons') // 引入lib-commons
+  implementation project(':lib-data') // 引入lib-data
   implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
   implementation 'org.springframework.boot:spring-boot-starter-web'
   compileOnly 'org.projectlombok:lombok'
